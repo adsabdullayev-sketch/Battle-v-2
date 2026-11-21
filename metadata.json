@@ -1,0 +1,6 @@
+{
+  "name": "Fizika Dəniz Döyüşü",
+  "description": "Məktəblilər üçün fizika suallarına cavab verərək düşmən gəmilərini batırdığınız interaktiv Dəniz Döyüşü (Battleship) tədris oyunu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
